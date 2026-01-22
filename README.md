@@ -33,10 +33,5 @@ Next.js platform managing 2,000+ participants with server-side rendering, paymen
 - **LinkedIn:** [linkedin.com/in/vishal-pund](https://www.linkedin.com/in/vishal-pund/)
 - **Location:** Pune, India
 
-### 📊 GitHub Stats
-
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishal-Pund13&show_icons=true&theme=dark)
-
----
 
 💡 *Open to collaborating on full-stack projects, AI applications, and startup opportunities*
